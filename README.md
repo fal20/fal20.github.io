@@ -1,6 +1,6 @@
 <DOCTYPE html>
   <details>
-  <summary></summary>
+ 
 <html>
 
 <head>
