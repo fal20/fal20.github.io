@@ -1,0 +1,216 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+}
+
+
+                                           
+.container {
+
+    background-color: rgb(255, 255, 255);
+    
+}
+.container1 {
+    background-color: rgb(240, 190, 238);
+}
+.container2 {
+    background-color: rgb(255, 255, 255);
+}
+
+.container-navbar{
+    background-color: rgb(247, 247, 247);
+    width: 100%;
+    height: 11vh;
+}
+
+
+
+
+.container-navbar1 {
+    background-color: rgb(247, 247, 247);
+    width: 100%;
+    height: 11vh;
+}
+   
+
+.ul-navbar {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar {
+   
+   list-style-type: none;
+   padding: 20px;
+   margin: 5px;
+   color: rgb(0, 0, 0);
+   font-size: 30px;
+}
+
+.li-navbar :hover{
+    background-color: rgb(12, 136, 214);
+    transition: 0.3s ease-in-out;
+    transition-delay: .3;    
+    border-radius: 8px
+}
+
+.a-navbar {
+    
+    color: black;
+    text-decoration: none;
+}
+
+.container-content {
+  
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 82vh;
+
+}
+
+.container-content1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 79vh;
+
+}
+
+.a-content {
+    margin-right: auto;
+    background-color: moccasin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 80px;
+    box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+-webkit-box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+-moz-box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+}
+
+.ai-content {
+    margin-right: 5%;
+    background-color: rgb(203, 66, 185);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 80px;
+    box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+-webkit-box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+-moz-box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+}
+
+.wa-content {
+    margin-right: 0px;
+    background-color: rgb(204, 255, 177);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 80px;
+    box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+-webkit-box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+-moz-box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+}
+
+
+.chip {
+    display: inline-block;
+    padding: 0 25px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 50px;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+  }
+
+.a-content2 {
+    background-color: rgb(204, 255, 177);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 80px;
+    box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+-webkit-box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+-moz-box-shadow: -3px -9px 95px 11px rgba(0,0,0,0.77);
+}
+
+
+.img-content  {
+    
+    width: 70%;
+    height: 70%;
+}
+
+.aimg-content {
+    width: 70%;
+    height: 70%;
+}
+
+.waimg-content {
+    width: 70%;
+    height: 70%;
+}
+
+.img-content1 {
+    width: 55%;
+    height: 55%;
+}
+.img-content2 {
+    width: 55%;
+    height: 55%;
+}
+
+.img-border {
+    text-decoration: dashed;
+}
+
+
+
+.container-footer {
+    height: 6vh;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container-footer1 {
+    
+    
+    background-color: rgb(181, 178, 180);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-footer {
+    
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        
+}
+
+.h2-footer{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: yellow;
+}
+.h2-footer1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: yellow;
+}
