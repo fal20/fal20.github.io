@@ -55,6 +55,6 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 ## Tautan Tambahan
 
 - [Dokumentasi Lengkap](https://link-to-documentation)
-- [Halaman Proyek](https://link-to-project-page)
+- [Halaman Proyek](https://Naume.html)
 - [Demo Langsung](https://link-to-live-demo)
 - [Saluran Komunikasi Komunitas](https://link-to-community-channel)
