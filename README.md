@@ -1,4 +1,4 @@
-# Nama Proyek
+# Nama Pr 
 
 Deskripsi singkat proyek atau tagline menarik di sini.
 
@@ -14,7 +14,7 @@ Penjelasan lebih rinci tentang proyek ini dan apa yang dapat dicapai dengan meng
 
 ## Demo
 
-Anda dapat melihat demo langsung dari proyek ini di [link demo](https://link-demo.com).
+Anda dapat melihat demo langsung dari proyek ini di [link demo](https://link-demo.m).
 
 ## Instalasi
 
