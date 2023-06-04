@@ -1,6 +1,6 @@
 <DOCTYPE html>
   <details>
-  <summary><strong>Lihat Kodingan</strong></summary>
+  <summary></summary>
 <html>
 
 <head>
