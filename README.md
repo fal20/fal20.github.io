@@ -1,5 +1,5 @@
 <DOCTYPE html>
-  <details>
+
  
 <html>
 
@@ -61,4 +61,4 @@
 </body>
 
 </html>
-    </details>
+ 
