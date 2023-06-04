@@ -1,60 +1,64 @@
-# Nama Proyek
+<DOCTYPE html>
+  <details>
+  <summary><strong>Lihat Kodingan</strong></summary>
+<html>
 
-Deskripsi singkat proyek web yang menarik dan jelas.
+<head>
+  <title>Naume</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
 
-![Logo Proyek](logo.png)
+<body>
+  <div class="container">
+    <!-- NAVIGATION BAR -->
+    <div class="container-navbar">
+          <ul class="ul-navbar">
+        <li class="li-navbar">
+          <a href="Naume.html" class="a-navbar">NaumE </a>
+        </li>
+        <li class="li-navbar">
+          <a href="about.html" class="a-navbar">MenU</a>
+        </li>
+        <li class="li-navbar">
+      <a href="contact.html" class="a-navbar">whatsapp</a>
+        </li>
+        <li class=" li-nvabar">
+        <a href="coba.html" class="a-navbar">coba</a></li>
+      </ul>
+    </div>
+    <!-- NAVIGATION BAR SELESAI -->
 
-## Persyaratan
+    <!-- CONTENT ! -->
+    
+   
 
-- Browser web terbaru
-- Node.js v12 atau versi yang lebih baru
+       <div class="container-content">
+         <a href="https://www.youtube.com/channel/UC-gS1Nv-mzxvyk1zdnWVWmg" class="a-content">
+        <img src="youtuber.png" class="img-content" class="img-border" />
+      </a>
 
-## Instalasi
+      <a href= "https://www.instagram.com/nflqla/" class="ai-content">
+        <img src="insta.png" class="aimg-content" class="aimg-border"/>
+       </a>
+  
+      <a href="https://en.wh.ms/6287761771037" class="wa-content">
+        <img src="whatsapp.png" class="waimg-content" class="waimpg-border"/>
+       </a>
+     
+     </div>
+      <!-- CONTENT 1 END -->
 
-1. Clone repositori ini: `git clone https://github.com/username/repository.git`
-2. Masuk ke direktori proyek: `cd repository`
-3. Instal dependensi: `npm install`
-4. Konfigurasi file `.env` dengan pengaturan yang diperlukan.
-5. Jalankan proyek: `npm start`
-6. Buka browser dan akses `http://localhost:3000`
+    <!-- FOOTER -->
+    <div class="container-footer">
+   
+       <marquee behavior="scroll" class="text-footer"> NAUFAL AQILA </marquee>
+    
+    </div>
+    <!-- FOOTER END -->
+  </div>
+  <script src="data.js" />
 
-## Fitur
+</body>
 
-- Fitur 1: Penjelasan singkat tentang fitur 1.
-- Fitur 2: Penjelasan singkat tentang fitur 2.
-
-## Struktur Proyek
-
-Struktur direktori utama proyek:
-
-├── public/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── styles/
-│ ├── index.js
-│ └── App.js
-├── .env.example
-├── README.md
-└── package.json
-
-## Kontribusi
-
-Kami sangat menghargai kontribusi dari pengembang lain. Jika Anda ingin berkontribusi, harap ikuti panduan [CONTRIBUTING.md](CONTRIBUTING.md) untuk petunjuk lebih lanjut.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
-## Tim Pengembang
-
-- Nama Pengembang 1 ([@username1](https://github.com/username1))
-- Nama Pengembang 2 ([@username2](https://github.com/username2))
-- Nama Pengembang 3 ([@username3](https://github.com/username3))
-
-## Tautan Tambahan
-
-- [Dokumentasi Lengkap](https://link-to-documentation)
-- [Halaman Proyek](https://Naume.html)
-- [Demo Langsung](https://link-to-live-demo)
-- [Saluran Komunikasi Komunitas](https://link-to-community-channel)
+</html>
+    </details>
